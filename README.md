@@ -1,2 +1,3 @@
 # ELE101
-Ele 101 dersi
+Ele 101 dersi\
+![example image](image.png)
